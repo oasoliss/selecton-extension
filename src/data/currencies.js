@@ -13,6 +13,7 @@ const currenciesList = {
     "BYN": { currencyName: "Belarussian Ruble", rate: 2.596137, currencyKeywords: ['белорусских рублей'] },
     "CAD": { currencyName: "Canadian Dollar", currencySymbol: "C$", rate: 1.269384, currencyKeywords: ['canadian dollar', 'канадских доллар'] },
     "CHF": { currencyName: "Swiss Franc", currencySymbol: "CHF", rate: 0.926525 },
+    "CLP": { currencyName: "Chilean Peso", currencySymbol: "CL$", rate: 802.58, currencyKeywords: ['peso'] },
     "CNY": { currencyName: "Chinese Yuan", currencySymbol: "¥", rate: 6.497301, currencyKeywords: ['yuan', 'юаней'] },
     "CRC": { currencyName: "Costa Rican Colon", currencySymbol: "₡", rate: 610.339772 },
     "CZK": { currencyName: "Czech Koruna", currencySymbol: "Kč", rate: 21.936455 },
